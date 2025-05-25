@@ -1,8 +1,8 @@
 import requests
 
 user_credentials = {
-    "email": "monjur.morshed@gigalogy.com",
-    "password": "!*TAhi111275*!"
+    "email": "",
+    "password": ""
 }
 
 BACKEND_URL = "http://localhost:8080"
